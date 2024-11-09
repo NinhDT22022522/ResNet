@@ -1,1 +1,1 @@
-# ResNet
+# Bài tập ResNet
